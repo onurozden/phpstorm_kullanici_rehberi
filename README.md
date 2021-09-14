@@ -16,6 +16,6 @@ Github: https://github.com/onurozden/phpstorm-kullanici-rehberi<br/>
 
 # Kullanıcı Rehberi Hakkında
 Bu döküman Onur Özden tarafından Phpstorm adlı yazılımın kullanıcıları için hazırlanmıştır.<br/>
-Bu kullanıcı rehberine info@onurozden.io mail adresine mail atarak içeriğe katkıda bulunabilirsiniz.<br/>
+Bu kullanıcı rehberine info@onurozden.com.tr mail adresine mail atarak içeriğe katkıda bulunabilirsiniz.<br/>
 Bu kullanıcı rehberi tamamlandıktan sonra her PhpStorm güncellemesinde tekrar güncellenecektir.<br/>
 Dökümana katkı sağlayanların isimleri döküman sonunda "Katkı Sağlayan PhpStorm Kullanıcıları" bölümünde ve README.md dosyasında yayınlanacaktır.<br/>
